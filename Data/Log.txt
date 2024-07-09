@@ -1,0 +1,12 @@
+01-Jun-22 22:38:23 - Transaction ID 1: User sbuch bought 1 Øl(Tuborg/Classic/Carlsberg/Rød) for 6 DKK at 01 Jun, 2022, 22:38:23
+01-Jun-22 22:38:25 - Transaction ID 2: User sbuch bought 1 Øl(f.eks. Thy, Guld,47, T-FF) for 10 DKK at 01 Jun, 2022, 22:38:25
+01-Jun-22 22:40:56 - Transaction ID 1: User sbuch bought 1 Øl(Tuborg/Classic/Carlsberg/Rød) for 6 DKK at 01 Jun, 2022, 22:40:56
+01-Jun-22 22:40:56 - Transaction ID 2: User sbuch bought 1 Øl(Tuborg/Classic/Carlsberg/Rød) for 6 DKK at 01 Jun, 2022, 22:40:56
+01-Jun-22 22:40:56 - Transaction ID 3: User sbuch bought 1 Øl(Tuborg/Classic/Carlsberg/Rød) for 6 DKK at 01 Jun, 2022, 22:40:56
+01-Jun-22 22:40:56 - Transaction ID 4: User sbuch bought 1 Øl(Tuborg/Classic/Carlsberg/Rød) for 6 DKK at 01 Jun, 2022, 22:40:56
+01-Jun-22 22:40:56 - Transaction ID 5: User sbuch bought 1 Øl(Tuborg/Classic/Carlsberg/Rød) for 6 DKK at 01 Jun, 2022, 22:40:56
+01-Jun-22 22:40:56 - Transaction ID 6: User sbuch bought 1 Øl(Tuborg/Classic/Carlsberg/Rød) for 6 DKK at 01 Jun, 2022, 22:40:56
+01-Jun-22 22:40:56 - Transaction ID 7: User sbuch bought 1 Øl(Tuborg/Classic/Carlsberg/Rød) for 6 DKK at 01 Jun, 2022, 22:40:56
+01-Jun-22 22:40:56 - Transaction ID 8: User sbuch bought 1 Øl(Tuborg/Classic/Carlsberg/Rød) for 6 DKK at 01 Jun, 2022, 22:40:56
+01-Jun-22 22:40:56 - Transaction ID 9: User sbuch bought 1 Øl(Tuborg/Classic/Carlsberg/Rød) for 6 DKK at 01 Jun, 2022, 22:40:56
+01-Jun-22 22:40:56 - Transaction ID 10: User sbuch bought 1 Øl(Tuborg/Classic/Carlsberg/Rød) for 6 DKK at 01 Jun, 2022, 22:40:56
